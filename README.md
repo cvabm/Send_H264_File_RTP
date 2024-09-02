@@ -1,0 +1,2 @@
+- java项目，用idea启动
+- 功能：将本地E:/record2.h264文件分片封装为rtp发送到远端udp端口
